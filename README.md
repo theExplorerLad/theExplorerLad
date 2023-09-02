@@ -1,7 +1,7 @@
-[![MasterHead](https://deschenesregnier.com/wp-content/uploads/2016/01/Technology-adaptation-1024x269.jpg)]
+![MasterHead](https://deschenesregnier.com/wp-content/uploads/2016/01/Technology-adaptation-1024x269.jpg)
 <h1 align="center">Hi 👋, I'm Deep!</h1>
 <h3 align="center">A wanderer in the field of Data Science.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 - 🔭 I’m currently working on **a crop recommendation system for precision agriculture.**
 
