@@ -1,38 +1,40 @@
-![MasterHead](https://deschenesregnier.com/wp-content/uploads/2016/01/Technology-adaptation-1024x269.jpg)
-<h1 align="center">Hi 👋, I'm Deep!</h1>
-<h3 align="center">A wanderer in the field of Data Science.</h3>
+## Hi there! 👋🏼
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
-- 🔭 I’m currently working on **a crop recommendation system for precision agriculture.**
+**I'm Deep**, a passionate data enthusiast who loves exploring the potential of data science. I have a deep appreciation for nature and a strong desire to apply AI and data science to address environmental challenges. I'm also excited to contribute to open-source projects and collaborate with others.
 
-- 🌱 I’m currently learning **DSA, Machine Learning, and APIs.**
+- 🔭 Currently working on **a crop recommendation system for precision agriculture.**
+
+- 🌱 I'm also actively exploring the realms of **Data Structures and Algorithms and APIs**.
 
 - 💬 Ask me about **Python, Pandas, Linear Regression.**
 
-- 📫 Drop your message at **dashdeepjyoti463@gmail.com**
+#
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepjyotidash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepjyotidash" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/theexplorerlad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="theexplorerlad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/apparently-deep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apparently-deep" height="30" width="40" /></a>
+### 🧰 Languages and Tools
+
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
+#
+
+### 📊 Stats
+
+![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=theExplorerLad&show_icons=true&theme=dracula)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=theExplorerLad&theme=gruvbox&border_radius=4.5) -->
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">  
+&nbsp; <a href="www.linkedin.com/in/deepjyotidash" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:dashdeepjyoti463@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/theExplorerLad" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theexplorerlad&show_icons=true&locale=en&layout=compact" alt="theexplorerlad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theexplorerlad&show_icons=true&locale=en" alt="theexplorerlad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theexplorerlad&" alt="theexplorerlad" /></p>
-
-
-
-
-
-
-
-
-
-
+#### **Visitor Count**
+![Visitor Count](https://profile-counter.glitch.me/{theExplorerLad}/count.svg)
